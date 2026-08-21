@@ -1,0 +1,16 @@
+Package: com.dell.dynamicislandnmh
+Version: 0.0.1-30+debug
+Architecture: iphoneos-arm
+Maintainer: dell
+Installed-Size: 192
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.dell.dynamicislandnmh_0.0.1-30+debug_iphoneos-arm.deb
+Size: 13568
+MD5sum: 68e21ab3e2d5e80811956c18a67df6d3
+SHA1: 4750b5c2c29b30f37451c0d328503c32365cd41a
+SHA256: 65d673104630671959ed4e68fc277f64043483dd128ea620a0d928fe9b4db380
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: dell
+Name: Dynamic island(NMH)
+
